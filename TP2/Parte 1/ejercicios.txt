@@ -1,0 +1,11 @@
+1) imprime 3
+2) imprime 21
+3) la variable b no fue declarada ni inicializada
+4) el primero tiene variables globales y el segundo locales, por lo que debería declarar la variable a en el procedimiento uno
+7)
+a. calcularPromedio := prom
+b. debería usar una variable que almacene el promedio
+c. error / imprime -1 / imprime 8
+8)
+a. no se puede declarar una función dentro de un procedimiento / debe escribir la función como parte del programa y e invocarlo en el proceso
+b. no cubre carácteres que no sean letras / retorna false / debe agregar un else al final

@@ -1,0 +1,22 @@
+1)
+a. imprime 25
+b. imprime 10
+c. error
+
+2) imprime pares: 4 impares: 4
+
+3)
+- la variable c debe ser por referencia (3)
+- suma no está inicializada en 0 (7)
+- i no está declarado (8)
+- a y b no están declaradas (17)
+- el tercer parámetro debe ser result (17)
+- ok no está declarada (20)
+- debe usar AND en vez de OR (20)
+
+4)
+- salario debe ser por referencia (2)
+- maxSalario deben ser parámetros por referencia (8)
+- no declara sumaSalarios (21)
+- maxLegajo debe ser inicializado en 0 (24)
+- maxSalario debe ser usado como parámetro (24)
