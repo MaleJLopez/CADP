@@ -43,7 +43,7 @@ begin
 	nombre2:= ' ';
 	mejor1:= 9999;
 	mejor2:= 9999;
-	for i:= 1 to 5 do begin
+	for i:= 1 to 2400 do begin
 		proporcion:= 0;
 		leer(e);
 		calcularRelacion(e, proporcion);
