@@ -1,0 +1,19 @@
+1)
+4, 4, 4, 51, 51
+
+2) 4, 16, 4, , 16, 16, 16
+
+3) 4, 20000, 20000, 20000
+
+4)
+a. error, no inicializó pc
+b. 51, un nuevo nombre, error porque pc fue eliminado
+c. Un texto, Otro texto
+d. Un texto, Un texto
+
+5)
+400.000
+400.000
+399.928
+399.928
+400.000
