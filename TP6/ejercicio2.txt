@@ -1,0 +1,8 @@
+13: persona debe ser por referencia
+17, 18: debe ser readln
+22: lista debe ser por referencia
+33: p debe ser de tipo persona
+38: dentro del while falta leerPersona(p)
+40: lista debe ser por valor
+44: debe ser l^.dato.nombre y l^.dato.nombre
+52: falta new (aux)

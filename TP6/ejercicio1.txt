@@ -1,0 +1,21 @@
+1)
+a. Crea una lista de números hasta que se ingrese 0 y la imprime
+b. 48, 13, 21, 10
+
+c.
+procedure imprimirLista(L: lista);
+begin
+	while(L <> nil)do begin
+		write(L^.num, ' ');
+		L:= L^.sig;
+	end;
+end.
+
+d.
+procedure incrementar(var L: lista; valor: integer);
+begin
+	while(L <> nil)do begin
+		L^.num:= L^.num + valor;
+		L:= L^.sig;
+	end;
+end.
